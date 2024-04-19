@@ -21,7 +21,6 @@ requirements:
     - poetry-core
   run:
     - python >=3.8
-    - typing-extensions >=4.10.0,<5.0.0
 
 test:
   imports:
